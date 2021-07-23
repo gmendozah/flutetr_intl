@@ -1,4 +1,4 @@
-# flutetr_intl
+# flutter_intl
 
 Internationalization for Flutter!
 
